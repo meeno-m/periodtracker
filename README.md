@@ -1,4 +1,8 @@
 # periodtracker
+Technology:
+
+used technology for our project is , hybrid smart contract ,ceramic Network for the user profile ,JavaScript and CSS for the Front end , dev tool built on IPFS/ filecoin that allows users to generate user profiles using a wallet address as log in .
+
 
 Possible features
 Get more tokens to use the app? 
